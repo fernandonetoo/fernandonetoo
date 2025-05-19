@@ -50,6 +50,14 @@ Me chamo Fernando Neto, sou natural de Patos, na Paraíba. Atualmente, estou cur
 />
 <img 
     align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
