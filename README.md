@@ -99,39 +99,26 @@ Me chamo Fernando Neto, sou natural de Patos, na Paraíba. Atualmente, estou cur
 
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
 
 <p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="margin-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=fernandonetoo&show_icons=true&theme=merko&include_all_commits=false&locale=pt-br" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonetoo&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonetoo&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
-<br/>
-<br/>
+<br />
 
 ## 📫 Onde me encontrar
 
-<section align="center"> 
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <a
-  href="[https://www.linkedin.com/in/fernandonetoo](https://www.linkedin.com/in/devfernandoneto/)"
-  target="_blank"
-  >
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a
-    href="#"
-    target="_blank"
-  >
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-
-</section>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfernandoneto/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devfernandonetoo@gmail.com)
