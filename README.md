@@ -115,3 +115,23 @@ Me chamo Fernando Neto, sou natural de Patos, na Paraíba. Atualmente, estou cur
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonetoo&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br/>
+<br/>
+
+## 📫 Onde me encontrar
+
+<section align="center"> 
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a
+  href="[https://www.linkedin.com/in/fernandonetoo](https://www.linkedin.com/in/devfernandoneto/)"
+  target="_blank"
+  >
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a
+    href="#"
+    target="_blank"
+  >
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+
+</section>
