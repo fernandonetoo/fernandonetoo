@@ -2,19 +2,15 @@
 
 **`Hello World`**
 
-1. Me chamo Fernando Neto, sou natural de Patos, Paraíba.
+1. Sou curioso por tecnologia e busco sempre aplicar e compartilhar conhecimento.
 
-2. Estudante de Análise e Desenvolvimento de Sistemas na UNIFIP-PATOS.
+2. Gosto de programar na prática, transformando ideias em soluções reais.
 
-3. Sou curioso por tecnologia e busco sempre aplicar e compartilhar conhecimento.
+3. Tenho estudado desenvolvimento web com Django, integrando backend e frontend.
 
-4. Gosto de programar na prática, transformando ideias em soluções reais.
+4. Experimento novas ferramentas e aplico o que aprendo em projetos pessoais e acadêmicos.
 
-5. Tenho estudado desenvolvimento web com Django, integrando backend e frontend.
-
-6. Experimento novas ferramentas e aplico o que aprendo em projetos pessoais e acadêmicos.
-
-7. Participo de projetos em grupo que fortalecem minhas habilidades técnicas e colaborativas, contribuindo para minha inserção no mercado.
+5. Participo de projetos em grupo que fortalecem minhas habilidades técnicas e colaborativas, contribuindo para minha inserção no mercado.
 
 ---
 
