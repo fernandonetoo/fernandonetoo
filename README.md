@@ -2,7 +2,19 @@
 
 **`Hello World`**
 
-Me chamo Fernando Neto, sou natural de Patos, na Paraíba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFIP-PATOS. Sou um estudante curioso por tecnologia, que gosta de explorar novas formas de aplicar e compartilhar conhecimento, meter a mão no código e ver ideias saindo do papel. Tenho me dedicado bastante ao desenvolvimento web, com foco em Django, integrando backend e frontend de forma prática e eficiente. Estou sempre experimentando novas ferramentas e colocando em prática o que aprendo seja em projetos pessoais ou em atividades da universidade. Tenho também participado de projetos em grupo na universidade, os quais têm sido fundamentais para o desenvolvimento de habilidades técnicas e colaborativas, contribuindo significativamente para minha preparação profissional e inserção no mercado de tecnologia.
+1. Me chamo Fernando Neto, sou natural de Patos, Paraíba.
+
+2. Estudante de Análise e Desenvolvimento de Sistemas na UNIFIP-PATOS.
+
+3. Sou curioso por tecnologia e busco sempre aplicar e compartilhar conhecimento.
+
+4. Gosto de programar na prática, transformando ideias em soluções reais.
+
+5. Tenho estudado desenvolvimento web com Django, integrando backend e frontend.
+
+6. Experimento novas ferramentas e aplico o que aprendo em projetos pessoais e acadêmicos.
+
+7. Participo de projetos em grupo que fortalecem minhas habilidades técnicas e colaborativas, contribuindo para minha inserção no mercado.
 
 ---
 
@@ -98,7 +110,6 @@ Me chamo Fernando Neto, sou natural de Patos, na Paraíba. Atualmente, estou cur
 <section align="left">
   <img src="https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </section>
 
 <br />
@@ -130,5 +141,6 @@ Me chamo Fernando Neto, sou natural de Patos, na Paraíba. Atualmente, estou cur
 ## 📫 Onde me encontrar:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfernandoneto/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583988266062)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_fernandooneto/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devfernandonetoo@gmail.com)
+
