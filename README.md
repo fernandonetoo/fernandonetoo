@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Me chamo Fernando Neto, sou natural de Patos, na Paraíba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFIP-PATOS. Sou um estudante curioso por tecnologia, que gosta de explorar novas formas de aplicar e compartilhar conhecimento, meter a mão no código e ver ideias saindo do papel. Tenho me dedicado bastante ao desenvolvimento web, com foco em Django, integrando backend e frontend de forma prática e eficiente. Estou sempre experimentando novas ferramentas e colocando em prática o que aprendo seja em projetos pessoais ou em atividades da universidade. Junto com meus professores e colegas, venho construindo experiências que, com certeza, contribuirão para que em breve nos tornemos profissionais preparados para o mercado de tecnologia.
+Me chamo Fernando Neto, sou natural de Patos, na Paraíba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFIP-PATOS. Sou um estudante curioso por tecnologia, que gosta de explorar novas formas de aplicar e compartilhar conhecimento, meter a mão no código e ver ideias saindo do papel. Tenho me dedicado bastante ao desenvolvimento web, com foco em Django, integrando backend e frontend de forma prática e eficiente. Estou sempre experimentando novas ferramentas e colocando em prática o que aprendo seja em projetos pessoais ou em atividades da universidade. Tenho também participado de projetos em grupo na universidade, os quais têm sido fundamentais para o desenvolvimento de habilidades técnicas e colaborativas, contribuindo significativamente para minha preparação profissional e inserção no mercado de tecnologia
 
 ---
 
